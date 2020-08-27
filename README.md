@@ -6,8 +6,7 @@ The API I used was "tweepy", it is a python wrapper for the twitter API.
 
 > ## Instructions
 
-In the folder twitter; open the twitterAPI.py code and replace **TOKEN** with your personal tokens.
-Set up an arduino with a soil humidity sensor and if you want to, an LCD display. Make sure you use an Arduino Uno since that's what the Arduino program will compile to. After you set up the Arduino, check your pins to make sure you connected them to the right in- and outputs.
+In the folder twitter; open the twitterAPI.py code and replace **TOKEN** with your personal tokens, do the same for **DEVICE** but of course with the name (name being the name your PC registered it as, for example: */dev/ttyACM0*) of the device you want to read the Serial from. Set up an arduino with a soil humidity sensor and if you want to, an LCD display. Make sure you use an Arduino Uno since that's what the Arduino program will compile to. After you set up the Arduino, check your pins to make sure you connected them to the right in- and outputs.
 
 > ## Run
 
