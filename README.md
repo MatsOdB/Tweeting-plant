@@ -11,5 +11,6 @@ In the folder twitter; open the twitterAPI.py code and replace **TOKEN** with yo
 > ## Run
 
 After everything is correctly set up; first run the Arduino code, then run the python code.
+The Arduino code can be compiled with the help of PlatformIO
 The program will now send a tweet telling you the humidity level of your plant every 15 minutes.
 The tweet should be sent from the account you athenticated with your personal tokens.
